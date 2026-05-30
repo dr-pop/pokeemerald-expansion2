@@ -2,7 +2,7 @@
   "id": "MAP_SLATEPORT_CITY",
   "name": "SlateportCity",
   "layout": "LAYOUT_SLATEPORT_CITY",
-  "music": "MUS_SLATEPORT",
+  "music": "MUS_EVER_GRANDE",
   "region": "REGION_HOENN",
   "region_map_section": "MAPSEC_SLATEPORT_CITY",
   "requires_flash": false,
@@ -15,19 +15,14 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE110",
-      "offset": 0,
-      "direction": "up"
-    },
-    {
-      "map": "MAP_ROUTE109",
-      "offset": 0,
-      "direction": "down"
-    },
-    {
-      "map": "MAP_ROUTE134",
+      "map": "MAP_ROUTE102",
       "offset": 0,
       "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE103",
+      "offset": 5,
+      "direction": "left"
     }
   ],
   "object_events": [
