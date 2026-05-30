@@ -1,0 +1,11 @@
+POKEMON RAINBOW ROM HACK
+
+Version numbering system: A.B.C
+A: RELEASE VERSION: If updates result in a new public release, +1  and reset below to 0.
+B: MAIN UPDATE: If updates from 'dev' branch are merged into main 'rainbow' branch and stable, , +1  and reset below to 0.
+C: DEV UPDATE: If updates from a subordinate branch are merged into 'dev' and (thus far) stable, , +1.
+
+Version:
+RELEASE VERSION: 0
+MAJOR DEV UPDATE: 0
+MINOR DEV UPDATE: 0
