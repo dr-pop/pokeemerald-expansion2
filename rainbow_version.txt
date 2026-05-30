@@ -8,4 +8,4 @@ C: DEV UPDATE: If updates from a subordinate branch are merged into 'dev' and (t
 Version:
 RELEASE VERSION: 0
 MAJOR DEV UPDATE: 0
-MINOR DEV UPDATE: 1
+MINOR DEV UPDATE: 2
