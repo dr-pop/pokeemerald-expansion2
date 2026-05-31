@@ -15,14 +15,19 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE105",
-      "offset": 0,
+      "map": "MAP_EVER_GRANDE_CITY",
+      "offset": 30,
       "direction": "up"
     },
     {
-      "map": "MAP_DEWFORD_TOWN",
-      "offset": 60,
-      "direction": "down"
+      "map": "MAP_ROUTE104",
+      "offset": -15,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE107",
+      "offset": 20,
+      "direction": "right"
     }
   ],
   "object_events": [
