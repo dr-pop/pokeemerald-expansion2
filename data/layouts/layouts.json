@@ -1005,10 +1005,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_DEVON_CORP_1F",
       "name": "RustboroCity_DevonCorp_1F_Layout",
-      "width": 19,
-      "height": 9,
+      "width": 17,
+      "height": 24,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_Facility",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_DevonCorp_1F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_DevonCorp_1F/map.bin",
       "layout_version": "emerald"
@@ -1016,10 +1016,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_DEVON_CORP_2F",
       "name": "RustboroCity_DevonCorp_2F_Layout",
-      "width": 19,
-      "height": 9,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Facility",
+      "width": 17,
+      "height": 30,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_DevonCorp_2F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_DevonCorp_2F/map.bin",
       "layout_version": "emerald"
@@ -1038,10 +1038,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_POKEMON_SCHOOL",
       "name": "RustboroCity_PokemonSchool_Layout",
-      "width": 12,
+      "width": 13,
       "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_PokemonSchool",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_PokemonSchool/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_PokemonSchool/map.bin",
       "layout_version": "emerald"
@@ -1061,9 +1061,9 @@
       "id": "LAYOUT_RUSTBORO_CITY_HOUSE1",
       "name": "RustboroCity_House1_Layout",
       "width": 13,
-      "height": 8,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_House1/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_House1/map.bin",
       "layout_version": "emerald"
@@ -1071,10 +1071,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_CUTTERS_HOUSE",
       "name": "RustboroCity_CuttersHouse_Layout",
-      "width": 11,
-      "height": 9,
+      "width": 13,
+      "height": 13,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_BikeShop",
       "border_filepath": "data/layouts/RustboroCity_CuttersHouse/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_CuttersHouse/map.bin",
       "layout_version": "emerald"
@@ -2952,10 +2952,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_DEVON_CORP_3F",
       "name": "RustboroCity_DevonCorp_3F_Layout",
-      "width": 19,
-      "height": 9,
+      "width": 17,
+      "height": 19,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_Facility",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_DevonCorp_3F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_DevonCorp_3F/map.bin",
       "layout_version": "emerald"
@@ -3227,8 +3227,8 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_FLAT2_1F",
       "name": "RustboroCity_Flat2_1F_Layout",
-      "width": 14,
-      "height": 9,
+      "width": 10,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/RustboroCity_Flat2_1F/border.bin",
@@ -3238,10 +3238,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_FLAT2_2F",
       "name": "RustboroCity_Flat2_2F_Layout",
-      "width": 14,
-      "height": 9,
+      "width": 10,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_Flat2_2F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_Flat2_2F/map.bin",
       "layout_version": "emerald"
@@ -3249,10 +3249,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_FLAT2_3F",
       "name": "RustboroCity_Flat2_3F_Layout",
-      "width": 14,
-      "height": 9,
+      "width": 10,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_Flat2_3F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_Flat2_3F/map.bin",
       "layout_version": "emerald"
@@ -3282,10 +3282,10 @@
     {
       "id": "LAYOUT_LILYCOVE_CITY_COVE_LILY_MOTEL_1F",
       "name": "LilycoveCity_CoveLilyMotel_1F_Layout",
-      "width": 12,
-      "height": 9,
+      "width": 13,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/LilycoveCity_CoveLilyMotel_1F/border.bin",
       "blockdata_filepath": "data/layouts/LilycoveCity_CoveLilyMotel_1F/map.bin",
       "layout_version": "emerald"
@@ -3293,10 +3293,10 @@
     {
       "id": "LAYOUT_LILYCOVE_CITY_COVE_LILY_MOTEL_2F",
       "name": "LilycoveCity_CoveLilyMotel_2F_Layout",
-      "width": 12,
-      "height": 9,
+      "width": 13,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/LilycoveCity_CoveLilyMotel_2F/border.bin",
       "blockdata_filepath": "data/layouts/LilycoveCity_CoveLilyMotel_2F/map.bin",
       "layout_version": "emerald"
@@ -3436,10 +3436,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_FLAT1_1F",
       "name": "RustboroCity_Flat1_1F_Layout",
-      "width": 14,
-      "height": 8,
+      "width": 10,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_Flat1_1F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_Flat1_1F/map.bin",
       "layout_version": "emerald"
@@ -3447,10 +3447,10 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY_FLAT1_2F",
       "name": "RustboroCity_Flat1_2F_Layout",
-      "width": 14,
-      "height": 8,
+      "width": 10,
+      "height": 11,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_OceanicMuseum",
       "border_filepath": "data/layouts/RustboroCity_Flat1_2F/border.bin",
       "blockdata_filepath": "data/layouts/RustboroCity_Flat1_2F/map.bin",
       "layout_version": "emerald"
