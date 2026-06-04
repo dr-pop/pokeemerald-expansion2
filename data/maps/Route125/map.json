@@ -15,19 +15,19 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_MOSSDEEP_CITY",
+      "map": "MAP_UNDERWATER_ROUTE125",
       "offset": 0,
+      "direction": "dive"
+    },
+    {
+      "map": "MAP_ROUTE134",
+      "offset": -50,
       "direction": "down"
     },
     {
       "map": "MAP_ROUTE124",
-      "offset": 0,
-      "direction": "left"
-    },
-    {
-      "map": "MAP_UNDERWATER_ROUTE125",
-      "offset": 0,
-      "direction": "dive"
+      "offset": -40,
+      "direction": "up"
     }
   ],
   "object_events": [
