@@ -16,13 +16,18 @@
   "connections": [
     {
       "map": "MAP_ROUTE114",
-      "offset": 0,
+      "offset": 10,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE118",
+      "offset": 7,
       "direction": "left"
     },
     {
-      "map": "MAP_ROUTE113",
-      "offset": 0,
-      "direction": "right"
+      "map": "MAP_ROUTE110",
+      "offset": 10,
+      "direction": "up"
     }
   ],
   "object_events": [

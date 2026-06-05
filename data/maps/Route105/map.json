@@ -15,19 +15,24 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE104",
+      "map": "MAP_UNDERWATER_ROUTE129",
       "offset": 0,
-      "direction": "up"
+      "direction": "dive"
     },
     {
-      "map": "MAP_ROUTE106",
+      "map": "MAP_EVER_GRANDE_CITY",
       "offset": 0,
       "direction": "down"
     },
     {
-      "map": "MAP_UNDERWATER_ROUTE105",
-      "offset": 0,
-      "direction": "dive"
+      "map": "MAP_ROUTE131",
+      "offset": -10,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE116",
+      "offset": -5,
+      "direction": "left"
     }
   ],
   "object_events": [
