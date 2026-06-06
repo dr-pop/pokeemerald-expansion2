@@ -71,21 +71,21 @@
   "warp_events": [
     {
       "x": 2,
-      "y": 14,
+      "y": 22,
+      "elevation": 0,
+      "dest_map": "MAP_FALLARBOR_TOWN",
+      "dest_warp_id": "5"
+    },
+    {
+      "x": 1,
+      "y": 15,
       "elevation": 0,
       "dest_map": "MAP_SLATEPORT_CITY",
       "dest_warp_id": "2"
     },
     {
-      "x": 3,
-      "y": 14,
-      "elevation": 0,
-      "dest_map": "MAP_SLATEPORT_CITY",
-      "dest_warp_id": "2"
-    },
-    {
-      "x": 3,
-      "y": 1,
+      "x": 22,
+      "y": 2,
       "elevation": 0,
       "dest_map": "MAP_SLATEPORT_CITY_STERNS_SHIPYARD_2F",
       "dest_warp_id": "0"
