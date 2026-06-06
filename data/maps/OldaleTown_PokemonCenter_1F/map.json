@@ -70,22 +70,22 @@
   ],
   "warp_events": [
     {
-      "x": 7,
-      "y": 8,
+      "x": -1,
+      "y": 9,
       "elevation": 3,
       "dest_map": "MAP_OLDALE_TOWN",
       "dest_warp_id": "2"
     },
     {
-      "x": 6,
-      "y": 8,
+      "x": 5,
+      "y": 7,
       "elevation": 3,
       "dest_map": "MAP_OLDALE_TOWN",
       "dest_warp_id": "2"
     },
     {
-      "x": 1,
-      "y": 6,
+      "x": -1,
+      "y": 8,
       "elevation": 4,
       "dest_map": "MAP_OLDALE_TOWN_POKEMON_CENTER_2F",
       "dest_warp_id": "0"
