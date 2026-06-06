@@ -14,8 +14,8 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_LITTLEROOT_TOWN",
-      "offset": -20,
+      "map": "MAP_MAUVILLE_CITY",
+      "offset": -30,
       "direction": "up"
     },
     {
