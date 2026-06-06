@@ -3,7 +3,7 @@
   "name": "EverGrandeCity",
   "layout": "LAYOUT_EVER_GRANDE_CITY",
   "music": "MUS_EVER_GRANDE",
-  "region_map_section": "MAPSEC_DEWFORD_TOWN",
+  "region_map_section": "MAPSEC_EVER_GRANDE_CITY",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
   "map_type": "MAP_TYPE_CITY",
@@ -14,14 +14,14 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE106",
-      "offset": -30,
-      "direction": "down"
+      "map": "MAP_ROUTE119",
+      "offset": 0,
+      "direction": "left"
     },
     {
-      "map": "MAP_ROUTE105",
+      "map": "MAP_ROUTE120",
       "offset": 0,
-      "direction": "up"
+      "direction": "right"
     }
   ],
   "object_events": [],
