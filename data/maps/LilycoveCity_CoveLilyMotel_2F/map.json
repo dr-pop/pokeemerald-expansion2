@@ -108,8 +108,8 @@
   ],
   "warp_events": [
     {
-      "x": 2,
-      "y": 1,
+      "x": 1,
+      "y": 2,
       "elevation": 0,
       "dest_map": "MAP_LILYCOVE_CITY_COVE_LILY_MOTEL_1F",
       "dest_warp_id": "2"
