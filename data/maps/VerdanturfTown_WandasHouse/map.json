@@ -85,12 +85,12 @@
       "x": 7,
       "y": 7,
       "elevation": 0,
-      "dest_map": "MAP_VERDANTURF_TOWN",
-      "dest_warp_id": "3"
+      "dest_map": "MAP_DEWFORD_TOWN",
+      "dest_warp_id": "5"
     },
     {
-      "x": 8,
-      "y": 7,
+      "x": -1,
+      "y": 8,
       "elevation": 0,
       "dest_map": "MAP_VERDANTURF_TOWN",
       "dest_warp_id": "3"
