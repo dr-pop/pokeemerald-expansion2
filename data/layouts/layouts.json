@@ -15,8 +15,8 @@
     {
       "id": "LAYOUT_SLATEPORT_CITY",
       "name": "SlateportCity_Layout",
-      "width": 70,
-      "height": 50,
+      "width": 40,
+      "height": 60,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/SlateportCity/border.bin",
@@ -37,8 +37,8 @@
     {
       "id": "LAYOUT_RUSTBORO_CITY",
       "name": "RustboroCity_Layout",
-      "width": 40,
-      "height": 60,
+      "width": 70,
+      "height": 50,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/RustboroCity/border.bin",
