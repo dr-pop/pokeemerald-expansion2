@@ -43,22 +43,22 @@
   ],
   "warp_events": [
     {
-      "x": 2,
-      "y": 8,
+      "x": 6,
+      "y": 9,
       "elevation": 0,
       "dest_map": "MAP_RUSTBORO_CITY",
       "dest_warp_id": "10"
     },
     {
-      "x": 3,
-      "y": 8,
+      "x": -1,
+      "y": 10,
       "elevation": 0,
       "dest_map": "MAP_RUSTBORO_CITY",
       "dest_warp_id": "10"
     },
     {
-      "x": 3,
-      "y": 1,
+      "x": 7,
+      "y": 2,
       "elevation": 0,
       "dest_map": "MAP_RUSTBORO_CITY_FLAT2_2F",
       "dest_warp_id": "0"

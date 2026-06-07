@@ -121,15 +121,15 @@
   ],
   "warp_events": [
     {
-      "x": 5,
-      "y": 27,
+      "x": 9,
+      "y": 12,
       "elevation": 0,
       "dest_map": "MAP_DEWFORD_TOWN",
       "dest_warp_id": "2"
     },
     {
-      "x": 6,
-      "y": 27,
+      "x": -1,
+      "y": 13,
       "elevation": 0,
       "dest_map": "MAP_DEWFORD_TOWN",
       "dest_warp_id": "2"

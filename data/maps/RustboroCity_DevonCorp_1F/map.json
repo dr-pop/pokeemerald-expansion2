@@ -57,41 +57,48 @@
   ],
   "warp_events": [
     {
-      "x": 5,
-      "y": 8,
+      "x": 8,
+      "y": 22,
       "elevation": 0,
       "dest_map": "MAP_RUSTBORO_CITY",
       "dest_warp_id": "5"
     },
     {
-      "x": 6,
-      "y": 8,
+      "x": 1,
+      "y": 12,
       "elevation": 0,
-      "dest_map": "MAP_RUSTBORO_CITY",
-      "dest_warp_id": "6"
+      "dest_map": "MAP_RUSTBORO_CITY_DEVON_CORP_3F",
+      "dest_warp_id": "0"
     },
     {
-      "x": 14,
-      "y": 1,
+      "x": 15,
+      "y": 12,
       "elevation": 0,
       "dest_map": "MAP_RUSTBORO_CITY_DEVON_CORP_2F",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_RUSTBORO_CITY_DEVON_CORP_3F",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],
   "bg_events": [
     {
       "type": "sign",
-      "x": 3,
-      "y": 2,
+      "x": 2,
+      "y": 3,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay"
     },
     {
       "type": "sign",
-      "x": 8,
-      "y": 2,
+      "x": 14,
+      "y": 3,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "RustboroCity_DevonCorp_1F_EventScript_RocksMetalDisplay"
