@@ -43,85 +43,85 @@
   ],
   "warp_events": [
     {
-      "x": 9,
-      "y": 11,
-      "elevation": 3,
-      "dest_map": "MAP_ABANDONED_SHIP_DECK",
-      "dest_warp_id": "2"
-    },
-    {
-      "x": 8,
-      "y": 11,
-      "elevation": 3,
-      "dest_map": "MAP_ABANDONED_SHIP_DECK",
-      "dest_warp_id": "2"
-    },
-    {
-      "x": 0,
-      "y": 11,
-      "elevation": 3,
-      "dest_map": "MAP_ABANDONED_SHIP_DECK",
-      "dest_warp_id": "3"
-    },
-    {
-      "x": 1,
-      "y": 11,
-      "elevation": 3,
-      "dest_map": "MAP_ABANDONED_SHIP_DECK",
-      "dest_warp_id": "3"
-    },
-    {
       "x": 11,
-      "y": 9,
+      "y": 2,
+      "elevation": 3,
+      "dest_map": "MAP_ABANDONED_SHIP_CORRIDORS_B1F",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "elevation": 3,
+      "dest_map": "MAP_ABANDONED_SHIP_DECK",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 9,
+      "y": 3,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_ROOMS_1F",
       "dest_warp_id": "0"
     },
     {
-      "x": 14,
-      "y": 9,
+      "x": 6,
+      "y": 3,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_ROOMS_1F",
-      "dest_warp_id": "3"
+      "dest_warp_id": "1"
     },
     {
-      "x": 11,
+      "x": 3,
       "y": 3,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_ROOMS_1F",
       "dest_warp_id": "2"
     },
     {
-      "x": 14,
-      "y": 3,
+      "x": 9,
+      "y": 11,
+      "elevation": 3,
+      "dest_map": "MAP_ABANDONED_SHIP_ROOMS_1F",
+      "dest_warp_id": "3"
+    },
+    {
+      "x": 6,
+      "y": 11,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_ROOMS_1F",
       "dest_warp_id": "4"
     },
     {
       "x": 3,
-      "y": 9,
+      "y": 11,
+      "elevation": 3,
+      "dest_map": "MAP_ABANDONED_SHIP_ROOMS_1F",
+      "dest_warp_id": "5"
+    },
+    {
+      "x": 2,
+      "y": -1,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_ROOMS2_1F",
       "dest_warp_id": "0"
     },
     {
-      "x": 16,
-      "y": 2,
+      "x": 4,
+      "y": -1,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_CORRIDORS_B1F",
       "dest_warp_id": "7"
     },
     {
-      "x": 5,
-      "y": 2,
+      "x": 3,
+      "y": -1,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_CORRIDORS_B1F",
       "dest_warp_id": "6"
     },
     {
-      "x": 3,
-      "y": 3,
+      "x": 1,
+      "y": -1,
       "elevation": 3,
       "dest_map": "MAP_ABANDONED_SHIP_ROOMS2_1F",
       "dest_warp_id": "2"

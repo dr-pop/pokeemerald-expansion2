@@ -211,8 +211,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BERRY_TREE",
-      "x": 24,
-      "y": 41,
+      "x": 23,
+      "y": 42,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_BERRY_TREE_GROWTH",
       "movement_range_x": 0,
@@ -473,8 +473,8 @@
   ],
   "warp_events": [
     {
-      "x": 17,
-      "y": 50,
+      "x": 20,
+      "y": 37,
       "elevation": 0,
       "dest_map": "MAP_ROUTE104_MR_BRINEYS_HOUSE",
       "dest_warp_id": "0"
@@ -515,15 +515,15 @@
       "dest_warp_id": "3"
     },
     {
-      "x": 32,
-      "y": 42,
+      "x": 57,
+      "y": 36,
       "elevation": 3,
       "dest_map": "MAP_PETALBURG_WOODS",
       "dest_warp_id": "4"
     },
     {
-      "x": 33,
-      "y": 42,
+      "x": 57,
+      "y": 37,
       "elevation": 3,
       "dest_map": "MAP_PETALBURG_WOODS",
       "dest_warp_id": "5"
@@ -543,8 +543,8 @@
   "bg_events": [
     {
       "type": "sign",
-      "x": 20,
-      "y": 50,
+      "x": 24,
+      "y": 41,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "Route104_EventScript_BrineysCottageSign"
@@ -567,8 +567,8 @@
     },
     {
       "type": "sign",
-      "x": 7,
-      "y": 20,
+      "x": 22,
+      "y": 39,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "Route104_EventScript_FlowerShopSign"

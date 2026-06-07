@@ -399,11 +399,11 @@
   ],
   "warp_events": [
     {
-      "x": 47,
-      "y": 8,
+      "x": 13,
+      "y": 14,
       "elevation": 0,
-      "dest_map": "MAP_RUSTURF_TUNNEL",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_GRANITE_CAVE_STEVENS_ROOM",
+      "dest_warp_id": "2"
     },
     {
       "x": 38,

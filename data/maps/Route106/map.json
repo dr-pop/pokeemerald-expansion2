@@ -98,11 +98,25 @@
   ],
   "warp_events": [
     {
-      "x": 48,
-      "y": 16,
+      "x": 59,
+      "y": 28,
       "elevation": 0,
-      "dest_map": "MAP_GRANITE_CAVE_1F",
+      "dest_map": "MAP_ROUTE104_PRETTY_PETAL_FLOWER_SHOP",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 6,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_PETALBURG_WOODS",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 6,
+      "y": 24,
+      "elevation": 0,
+      "dest_map": "MAP_PETALBURG_WOODS",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],

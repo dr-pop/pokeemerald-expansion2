@@ -132,11 +132,25 @@
   ],
   "warp_events": [
     {
-      "x": 36,
-      "y": 6,
+      "x": 20,
+      "y": 17,
       "elevation": 3,
       "dest_map": "MAP_SKY_PILLAR_ENTRANCE",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 50,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_ABANDONED_SHIP_CORRIDORS_B1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 44,
+      "y": 22,
+      "elevation": 0,
+      "dest_map": "MAP_ABANDONED_SHIP_CORRIDORS_B1F",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],
