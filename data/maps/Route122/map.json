@@ -27,14 +27,23 @@
   "object_events": [],
   "warp_events": [
     {
-      "x": 22,
-      "y": 29,
+      "x": 16,
+      "y": 21,
       "elevation": 0,
       "dest_map": "MAP_MT_PYRE_1F",
       "dest_warp_id": "0"
     }
   ],
   "coord_events": [],
-  "bg_events": [],
+  "bg_events": [
+    {
+      "type": "sign",
+      "x": 11,
+      "y": 14,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NULL"
+    }
+  ],
   "region": "REGION_HOENN"
 }
